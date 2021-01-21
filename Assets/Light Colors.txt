@@ -1,0 +1,5 @@
+The Heist Light Colors
+	
+	Window Spotlight:
+		Day:	237, 244, 206, 255
+		Night:	10, 10, 30, 255
